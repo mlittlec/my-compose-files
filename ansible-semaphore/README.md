@@ -1,6 +1,6 @@
-# This web UI for Ansible is so damn useful
+# A really handy web UI for Ansible 
 
-Ansible Semaphore is the perfect tool for automating your servers, applications, and clean up tasks with Ansible Playbooks. In this video, I'll quickly show you how to install it and some of the stuff you can do with it. If you're new to Ansible, I recommend checking out some of my older videos first to get some foundational knowledge. Let's get started automating your Homelab with Ansible Semaphore!
+Ansible Semaphore is the perfect tool for automating your servers, applications, and clean up tasks with Ansible Playbooks.
 
 Video: https://youtu.be/NyOSoLn5T5U (Christian Lempa's YouTube video introduced me to this tool)
 
