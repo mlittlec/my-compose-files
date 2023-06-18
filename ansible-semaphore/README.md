@@ -1,4 +1,4 @@
-# A really handy web UI for Ansible 
+# A Modern web-based UI for Ansible 
 
 [Ansible Semaphore](https://www.ansible-semaphore.com/) is the perfect tool for automating your servers, applications, and clean up tasks with Ansible Playbooks.  It is fully Open Source on [GitHub](https://github.com/ansible-semaphore/semaphore), and has pretty good [documentation](https://docs.ansible-semaphore.com/). 
 
