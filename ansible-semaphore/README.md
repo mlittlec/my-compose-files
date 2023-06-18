@@ -1,6 +1,6 @@
 # A really handy web UI for Ansible 
 
-Ansible Semaphore is the perfect tool for automating your servers, applications, and clean up tasks with Ansible Playbooks.
+[Ansible Semaphore](https://www.ansible-semaphore.com/) is the perfect tool for automating your servers, applications, and clean up tasks with Ansible Playbooks.  It is fully Open Source on [GitHub](https://github.com/ansible-semaphore/semaphore), and has pretty good [documentation](https://docs.ansible-semaphore.com/). 
 
 Video: https://youtu.be/NyOSoLn5T5U (Christian Lempa's YouTube video introduced me to this tool)
 
